@@ -1,2 +1,2 @@
 # Twitter-login-page
-Twitter Login page Design with HTMl and CSS only.
+Twitter log in page Design with HTML and CSS only.
